@@ -9,3 +9,7 @@ else
   echo "We good"
 fi
 echo "PR_URL is: $PR_URL"
+
+IMPORTANT_FILE_CHANGE=1
+
+
